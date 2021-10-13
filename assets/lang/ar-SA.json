@@ -1,0 +1,447 @@
+{
+  "Featured Categories":"فئات مميزة",
+  "Featured Products":"منتجات مميزة",
+  "Top Categories": "أفضل التصنيفات ",
+  "Brands":"ماركات",
+  "Flash Deals": "عروض ",
+  "Flash Deal": "عروض",
+  "Buy Now": "اشتري الان",
+  "Add to Cart": "اضافة الى السلة",
+  "Top Sellers":"أفضل البائعين",
+  "Today's Deal":"صفقة اليوم",
+  "Today's Deals":"صفقة سريعة ",
+  "Todays Deal": "صفقة اليوم",
+  "Please log in to see the cart items": "الرجاء تسجيل الدخول لمشاهدة محتويات السلة",
+
+  "Total Amount": "الاجمالي",
+
+  "Enter verification code": "ادخل رمز التفعيل",
+
+  "Confirm": "تم",
+
+  "Resend Code": "إعادة إرسال الكود",
+
+  "Enter the verification code that sent to your email recently.": "ادخل كود التفعيل الذي تم إرساله الى اميلك",
+
+  "Enter the verification code that sent to your phone recently.": "ادخل كود التفعيل الذي تم إرساله الى هاتفك",
+
+  "Chat with seller": "التحدث مع البائع",
+
+  "price range": "نطاق السعر",
+  "Sort": "النوع",
+  "Filter": "تصفية",
+
+  "Search here ?": "ابحث هنا",
+
+  "You need to log in": "تحتاج الى تسجيل الدخول",
+
+  "Price:": "السعر",
+
+  "View More" : "مشاهدة المزيد",
+
+  "Show Less": "مشاهدة أقل",
+
+  "View Products": "مشاهدة المنتجات",
+
+  "View Sub-Categories": "الفئات الفرعية",
+
+  "No sub categories available": "لا يوجد منتجات فرعية",
+
+  "sellers": "البائعين",
+
+  "No data is available": "لا يوجد بيانات متاحة",
+
+  "Search products from : ": "البحث عن المنتجات من",
+
+  "Search products of shop : ": "البحث عن منتجات المتجر",
+
+  "Search products of brand : ": "البحث عن منتجات الماركة",
+
+
+  "UPDATE CART": "مراجعة السلة",
+
+  "Log in": "الدخول",
+  "Sign up": "تسيجل الدخول",
+  "Sign Up": "تسيجل الدخول",
+
+  "Forgot Password?": "نسيت كلمة المرور",
+
+  "You are not logged in": "لم تقم بتسجيل الدخول بعد",
+
+  "No More Products": "لا يوجد منتجات اخرى",
+
+  "No More Shops": "لا يوجد بائعين",
+  "Sort Products By": "التصفية بواسطة المنتجات",
+
+  "CLOSE": "إغلاق",
+
+  "You can use sorting while searching for products.": "يمكنك استخدام الفرز أثناء البحث عن المنتجات .",
+
+  "Maximum": "الاقصى",
+
+  "No categories available": "لا يوجد أقسام متاحة",
+
+  "No brands available": "لا يوجد",
+
+  "CLEAR": "واضح",
+
+  "APPLY": "تم",
+
+  "Min price cannot be larger than max price": "لا يمكن أن يكون الحد الأدنى للسعر أكبر من الحد الأقصى للسعر",
+
+  "No product is available": "لا يوجد منتجات متوفرة",
+
+  "Price": "السعر",
+
+  "Club Point:": "النقاط",
+
+  "No top selling products from this seller": "لا يوجد أفضل منتج لدى هذا البائع",
+
+  "No related products": "لا يوجد منتجات مرتبطة",
+
+  "Quantity:": "الكمية",
+
+  "Total Price:": "السعر الإجمالي",
+
+  "Seller": "البائع",
+
+
+  "Top Selling Products from this seller": "أفضل منتج من هذا البائع",
+
+  "Products you may also like": "منتجات قد تعجبك",
+
+  "Support Policy": "سياسة الدعم",
+  "Reviews": "التقيمات",
+
+
+  "SHOW CART": "مشاهدة السلة",
+
+  "Added to cart": "تم اضافتها للسلة",
+
+  "Could not create conversation": "لم تقم بعمل محادثة",
+
+  "Title": "النص",
+
+
+
+  "Enter Title": "ادخل النص",
+
+  "Share Options": "خيار المشاركة",
+
+  "Copied": "تم النسخ",
+
+  "Copy Product Link": "انسخ رابط المنتج",
+
+  "Video": "فيديو",
+
+  "Descripiton:": "الوصف",
+
+  "brands": "ماركات",
+
+  "Sellers": "البائعين",
+
+  "Product": "المنتج",
+
+
+
+
+
+
+
+
+
+  "Color:": "اللون",
+
+  "available": "متاح",
+
+
+
+
+  "or, create a new account ?": "او عمل حساب جديد",
+
+  "No brand is available": "لا يوجد",
+
+  "No shop is available": "لا يوجد بائع",
+
+  "or, Login with a phone number": "أو الدخول بواسطة الهاتف",
+
+  "or, Login with an email": "او الدخول بالبريد الالكتروني",
+
+  "Login with": "الدخول بواسطة",
+  "SEND": "إرسال",
+
+  "Seller Policy": "سياسات البائع",
+
+  "Return Policy": "سياسة الإسترجاع",
+
+
+
+
+  "Account": "الحساب",
+  "Email": "البريد الالكتروني",
+  "Password": "كلمة المرور",
+
+  "Already have an Account ?": "هل تلمك حساب بالفعل",
+
+  "Retype Password": "اعادة كتابة كلمة المرور",
+
+  "Password must be at least 6 character": "يجب ان تكون كلمة المرور من 6 رموز",
+
+  "or, Register with an email": "او , قم بالتسجيل بالبريد الالكتروني",
+
+  "email": "البريد الالكتروني",
+
+  "Name": "الاسم",
+  "Phone": "الهاتف",
+
+  "Country": "الدولة",
+
+  "Postal Code": "الرمز البريدي",
+
+  "City": "المدينة",
+
+  "No Addresses is added": "لا يوجد عنوان مضاف",
+
+  "ADD": "اضافة",
+  "Enter Phone": "ادخل رقم الهاتف",
+  "Enter Postal Code": "ادخل الرمز البريدي",
+  "Select a country": "اختار الدولة",
+
+  "Country *": "الدولة",
+
+  "Select a city": "اختار المدينة",
+  "City *": "المدينة*",
+  "Enter Address": "",
+  "Address *": "العنوان",
+
+  "Go to address page": "اذهب لصفحة العنوان",
+
+  "Enter City": "ادخل المدينة",
+
+  "Cancel": "حذف",
+  "Are you sure to remove this item": "هل انت متأكد من حذف ذلك العنصر",
+
+
+  "item": "العنصر",
+
+  "Ask For Refund": "اطلب الإسترجاع",
+
+  "Refund Status": "حالة الإسترجاع",
+
+
+
+  "paid": "دفع",
+
+  "Order Details": "تفاصيل الطلب",
+
+
+
+
+
+
+  "Cart is empty": "السلة فارغة",
+
+  "PROCEED TO SHIPPING": "انتقل الى الشحن",
+
+  "Login to ": "الدخول الى ",
+
+  "Shopping Cart": "سلة المشتريات",
+  "Search":"البحث",
+  "Login": "الدخول",
+  "Top Selling Products": "أفضل المنتجات مبيعاً",
+  "Coming soon": "قريبا جدا",
+  "Categories": "التصنيفات",
+  "Please log in to see the profile": "الرجاء  تسجبل الدخول لمشاهدة ملفك الشخصي",
+  "Orders": "الطلبات",
+  "Profile":"حسابي",
+  "Cart": "السلة",
+  "Address": "العنوان",
+  "Notification": "الاشعارات",
+  "Enter email": "ادخل  الاميل",
+  "Not logged in":"لم يتم  تسجيل  الدخول ",
+  "Home":"الرئيسية",
+  "change language": "تغير اللغة",
+
+  "No More Brands": "لا يوجد ماركات",
+
+  "seller": "البائع",
+
+
+
+  "Available": "متاح",
+
+  "My Wishlist": "قائمة الامنيات",
+
+  "Messages": "الرسائل",
+
+  "Wallet": "المحفظة",
+
+  "Logout": "تسجيل الخروج",
+
+  "Purchase History": "سجل المشتريات",
+
+  "No More Orders": "لا يوجد طلبات",
+
+  "All": "الكل",
+
+  "Unpaid": "لم يدفع",
+
+  "Basic Information": "المعلومات الاساسية",
+
+  "Update Profile": "تحديث ملفك",
+
+
+
+
+  "Earning Points": "ربح النقاط",
+
+  "Refund Requests": "طلبات الإسترداد",
+
+  "In wishlist": "في قائمة الامنيات",
+
+  "Ordered": "تم طلبتها",
+
+  "Check Balance": "تحقق من رصيدي",
+  "SHIPPING COST": "تكلفة الشحن",
+
+  "DISCOUNT": "الخصم",
+  "GRAND TOTAL": "السعر الإجمالي",
+
+  "close": "إغلاق",
+
+  "Shipping Method": "طريقة الشحن",
+
+  "Order Code": "رقم الطلب",
+
+  "Order Date": "تاريخ الطلب",
+
+  "Payment Method": "طريقة الدفع",
+
+  "Payment Status": "حالة الدفع",
+
+  "Delivery Status": "حالة التوصيل",
+
+  "Shipping Address": "عنوان الشحن",
+
+  "Earned Points": "النقاط المكتسبة",
+
+
+  "Convert": "التحويل",
+
+
+
+  "Delivered": "تم التوصيل",
+
+  "On Delivery": "في الطريق",
+
+  "Confirmed": "مؤكد",
+
+  "All Products of ": "كل المنتجات الخاصه بـ ",
+
+  "Order placed": "تم الطلب",
+
+  "No items are ordered": "لم يتم طلب اي منتج",
+
+  "Submit": "تم",
+
+  "Enter Reason": "ادخل السبب",
+
+  "Reason cannot be empty": "لا يمكن ان يكون السبب فارغ",
+
+  "Product Name": "اسم المنتح",
+
+  "Reason *": "",
+
+  "Show Request List": "",
+
+  "see details": "مشاهدة التفاصيل",
+  "Coupon Code": "كود الخصم",
+  "APPLY COUPON": "ادخل الكوبون",
+  "Remove": "الحذف",
+  "Checkout": "الدفع",
+  "No payment method is added": "لم يتم إضافة طريقة دفع",
+  "PLACE MY ORDER": "أكد طلبي",
+  "TAX": "الضرائب",
+  "SUB TOTAL": "المجموع",
+  "Nothing to pay": "لم يتم الدفع",
+  "Enter coupon code": "ادخل كود الخصم",
+  "PROCEED TO CHECKOUT": "قم بالدفع",
+
+  "Ordered Product": "المنتج المطلوب",
+
+  "Please log in to see the wishlist items": "الرجا الدخول لمشاهدة قائمة الامنيات",
+  "My Wallet": "محفظتي",
+
+  "No recharges yet": "لم تشحن المحفظة",
+
+  "Last recharged : ${_balanceDetails.last_recharged}": "اخر تاريخ للشحن",
+
+  "Last recharged : ": "اخر تاريخ للشحن",
+
+  "Paid": "مدفوع",
+
+
+
+  "Approval Status": "حالة القبول",
+
+  "Wallet Balance": "رصيد المحفظة",
+
+  "Last recharged :": "اخر عمليات",
+
+  "Wallet Recharge History": "سجل شحن بالمحفظة",
+  "Proceed": "تم",
+
+  "Enter Amount": "ادخل الكمية",
+
+  "Amount": "الكمية",
+
+
+  "Addresses of user": "عنواين المستخدم",
+
+  "* Double tap on an address to make it default": "نقر نقرًا مزدوجًا على عنوان لجعله افتراضيًا",
+
+  "available": "متاح {}",
+
+  "Shipping Cost": "تكلفة الشحن {}",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "Shipping Cost ": "تكلفة الشحن",
+
+
+
+
+
+
+
+
+
+  "Address": "العنوان",
+
+  "In your cart": "في سلتك",
+
+
+  "You can use filters while searching for products.": "تستطيع إستخدام الفلتر عند البحث عن المنتجات"
+
+
+
+}
